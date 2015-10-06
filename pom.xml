@@ -17,6 +17,14 @@
 			<version>4.12</version>
 			<scope>test</scope>
 		</dependency>
+		<!-- Is your code battle ready. -->
+		<dependency>
+			<groupId>org.databene</groupId>
+			<artifactId>contiperf</artifactId>
+			<version>2.3.4</version>
+		</dependency>
+
+
 		<!-- If you are not logging, your code has never seen prod yet. -->
 		<dependency>
 			<groupId>ch.qos.logback</groupId>
