@@ -27,6 +27,7 @@
 	</dependencies>
 
 	<build>
+		<!-- Wake up and smell the coffee. It is java 8 time already. -->
 		<plugins>
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
